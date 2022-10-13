@@ -13,21 +13,20 @@
     form {
       margin-left: 70px;
       width: 170px;
-      input {
-        margin-bottom: 10px;
-      }
     }
     i {
       color: red;
     }
+    b {
+      color: green;
+    }
     .submit {
       display: block;
       justify-content: center;
-      height: 62.5%;
+      height: 50.5%;
       .apply {
         display: inline-block;
         margin-left: 120px;
-        margin-top: 30px;
       }
     }
   }
